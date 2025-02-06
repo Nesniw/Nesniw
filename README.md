@@ -2,7 +2,7 @@
 
 ## Welcome to my repository. Feel free to take a look at some of my projects here 😁
 
-## For any questions about my projects, contact/DM me via linked social media. Thank you 💜
+## For any questions, contact/DM me via linked social media. Thank you 💜
 
 <!--
 **Nesniw/Nesniw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
